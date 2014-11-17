@@ -1,2 +1,7 @@
 *.pyc
 __pycache__
+bin
+Include
+Lib
+Scripts
+build
