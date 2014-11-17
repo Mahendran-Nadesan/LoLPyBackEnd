@@ -1,0 +1,5 @@
+LoLPyBackEnd To Do List
+
+1. Find out how to add api key from a configuration file.
+
+2. Regenerate an api key.

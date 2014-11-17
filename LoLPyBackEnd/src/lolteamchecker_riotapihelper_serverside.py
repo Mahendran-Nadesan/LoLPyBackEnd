@@ -1,5 +1,5 @@
 '''
-LoLTeamCheckerServerSide
+LoLTeamChecker RiotApiHelper ServerSide
 
 Provides a wrapper for the LoLTeamChecker app at
 http://mahennads.pythonanywhere.com/ '''
